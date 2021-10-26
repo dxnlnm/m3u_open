@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="French Open" tvg-id="101" tvg-chno="101" tvg-logo="https://i.imgur.com/jfggvTe.png",French Open Court 1
+https://live.vimeocdn.com/1635257081-0x769548670da0238eeed622aa1e7d07370fa345b7/f03c7102-47d2-4dd8-88f4-a4569e33b44c/chunklist_b6256000.m3u8
+
+#EXTINF:-1 group-title="French Open" tvg-id="102" tvg-chno="102" tvg-logo="https://i.imgur.com/jfggvTe.png",French Open Court 2
+https://live.vimeocdn.com/1635257793-0xb06dabd9ed763a3d4887b9e9897d75555342ec0c/b1303573-6735-4f82-ae00-22d0f62d9134/chunklist_b6256000.m3u8
+
+#EXTINF:-1 group-title="French Open" tvg-id="103" tvg-chno="103" tvg-logo="https://i.imgur.com/jfggvTe.png",French Open Court 3
+https://stream-11.dc3.dailymotion.com/sec(EYQB9Fg95-86vGGLUfT83iy9UCXmtRLLOA8I2NtkVmk)/dm/3/x6hd06p/d/live-4.m3u8
