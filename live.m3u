@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="foxactionmovies" tvg-name="FOX Action Movies" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/v833Pq98/1200px-Fox-Action-Movies-logo-svg.png" group-title="Movies",FOX Action Movies
+#EXTINF:-1 tvg-id="foxactionmovies" tvg-name="TV1 HD" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/v833Pq98/1200px-Fox-Action-Movies-logo-svg.png" group-title="Movies",FOX Action Movies
 http://192.168.0.169:6767/download/test/stream/index.m3u8
 
-#EXTINF:-1 tvg-id="foxcrime" tvg-name="FOX Crime" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/52Fg2frj/1280px-Fox-Crime-2017-svg.png" group-title="Movies",FOX Crime
+#EXTINF:-1 tvg-id="foxcrime" tvg-name="TV2 HD" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/52Fg2frj/1280px-Fox-Crime-2017-svg.png" group-title="Movies",FOX Crime
 http://192.168.0.169:6767/download/awn/stream/index.m3u8
