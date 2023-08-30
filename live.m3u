@@ -1,10 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="foxactionmovies" tvg-name="FOX Action Movies" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/v833Pq98/1200px-Fox-Action-Movies-logo-svg.png" group-title="Movies",FOX Action Movies
+http://192.168.0.169:6767/download/test/stream/index.m3u8
 
-#EXTINF:-1 group-title="French Open" tvg-id="101" tvg-chno="101" tvg-logo="https://i.imgur.com/jfggvTe.png",French Open Court 2
-http://192.168.0.125:8005/court2.php
-
-#EXTINF:-1 group-title="French Open" tvg-id="102" tvg-chno="102" tvg-logo="https://i.imgur.com/jfggvTe.png",French Open Court 3
-http://192.168.0.125:8005/court3.php
-
-#EXTINF:-1 group-title="French Open" tvg-id="103" tvg-chno="103" tvg-logo="https://i.imgur.com/jfggvTe.png",French Open Court 4
-http://192.168.0.125:8005/court4.php
+#EXTINF:-1 tvg-id="foxcrime" tvg-name="FOX Crime" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/52Fg2frj/1280px-Fox-Crime-2017-svg.png" group-title="Movies",FOX Crime
+http://192.168.0.169:6767/download/awn/stream/index.m3u8
